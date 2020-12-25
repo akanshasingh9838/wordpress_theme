@@ -1,0 +1,75 @@
+[18-Dec-2020 16:59:42] NOTICE: fpm is running, pid 3097
+[18-Dec-2020 16:59:42] NOTICE: ready to handle connections
+[18-Dec-2020 20:00:12] NOTICE: Terminating ...
+[19-Dec-2020 10:13:49] NOTICE: fpm is running, pid 4268
+[19-Dec-2020 10:13:49] NOTICE: ready to handle connections
+[19-Dec-2020 11:56:58] NOTICE: fpm is running, pid 1504
+[19-Dec-2020 11:56:58] NOTICE: ready to handle connections
+[19-Dec-2020 19:31:02] NOTICE: Terminating ...
+[19-Dec-2020 19:31:02] NOTICE: exiting, bye-bye!
+[21-Dec-2020 09:35:18] NOTICE: fpm is running, pid 3184
+[21-Dec-2020 09:35:18] NOTICE: ready to handle connections
+[21-Dec-2020 11:58:54] NOTICE: Terminating ...
+[21-Dec-2020 11:58:54] NOTICE: exiting, bye-bye!
+[21-Dec-2020 11:59:09] NOTICE: fpm is running, pid 11020
+[21-Dec-2020 11:59:09] NOTICE: ready to handle connections
+[21-Dec-2020 13:23:06] NOTICE: fpm is running, pid 1961
+[21-Dec-2020 13:23:06] NOTICE: ready to handle connections
+[21-Dec-2020 14:13:08] NOTICE: Terminating ...
+[21-Dec-2020 14:13:08] NOTICE: exiting, bye-bye!
+[21-Dec-2020 14:13:10] NOTICE: fpm is running, pid 5526
+[21-Dec-2020 14:13:10] NOTICE: ready to handle connections
+[21-Dec-2020 14:14:24] NOTICE: Terminating ...
+[21-Dec-2020 14:14:24] NOTICE: exiting, bye-bye!
+[21-Dec-2020 14:14:29] NOTICE: fpm is running, pid 5721
+[21-Dec-2020 14:14:29] NOTICE: ready to handle connections
+[21-Dec-2020 14:56:36] NOTICE: Terminating ...
+[21-Dec-2020 15:13:12] NOTICE: fpm is running, pid 2415
+[21-Dec-2020 15:13:12] NOTICE: ready to handle connections
+[21-Dec-2020 20:05:03] NOTICE: Terminating ...
+[22-Dec-2020 09:03:02] NOTICE: fpm is running, pid 2513
+[22-Dec-2020 09:03:02] NOTICE: ready to handle connections
+[22-Dec-2020 09:57:52] NOTICE: Terminating ...
+[22-Dec-2020 09:57:52] NOTICE: exiting, bye-bye!
+[22-Dec-2020 10:45:19] NOTICE: fpm is running, pid 7837
+[22-Dec-2020 10:45:19] NOTICE: ready to handle connections
+[22-Dec-2020 10:46:35] ERROR: Another FPM instance seems to already listen on /home/cedcoss/.config/Local/run/hcLsjC0yD/php/php-fpm.socket
+[22-Dec-2020 10:46:35] ERROR: FPM initialization failed
+[22-Dec-2020 10:46:36] ERROR: Another FPM instance seems to already listen on /home/cedcoss/.config/Local/run/hcLsjC0yD/php/php-fpm.socket
+[22-Dec-2020 10:46:36] ERROR: FPM initialization failed
+[22-Dec-2020 10:46:36] ERROR: Another FPM instance seems to already listen on /home/cedcoss/.config/Local/run/hcLsjC0yD/php/php-fpm.socket
+[22-Dec-2020 10:46:36] ERROR: FPM initialization failed
+[22-Dec-2020 10:46:37] ERROR: Another FPM instance seems to already listen on /home/cedcoss/.config/Local/run/hcLsjC0yD/php/php-fpm.socket
+[22-Dec-2020 10:46:37] ERROR: FPM initialization failed
+[22-Dec-2020 11:04:45] ERROR: Another FPM instance seems to already listen on /home/cedcoss/.config/Local/run/hcLsjC0yD/php/php-fpm.socket
+[22-Dec-2020 11:04:45] ERROR: FPM initialization failed
+[22-Dec-2020 11:04:45] ERROR: Another FPM instance seems to already listen on /home/cedcoss/.config/Local/run/hcLsjC0yD/php/php-fpm.socket
+[22-Dec-2020 11:04:45] ERROR: FPM initialization failed
+[22-Dec-2020 11:04:46] ERROR: Another FPM instance seems to already listen on /home/cedcoss/.config/Local/run/hcLsjC0yD/php/php-fpm.socket
+[22-Dec-2020 11:04:46] ERROR: FPM initialization failed
+[22-Dec-2020 11:04:46] ERROR: Another FPM instance seems to already listen on /home/cedcoss/.config/Local/run/hcLsjC0yD/php/php-fpm.socket
+[22-Dec-2020 11:04:46] ERROR: FPM initialization failed
+[23-Dec-2020 11:18:37] NOTICE: fpm is running, pid 6608
+[23-Dec-2020 11:18:37] NOTICE: ready to handle connections
+[24-Dec-2020 11:18:54] NOTICE: fpm is running, pid 6834
+[24-Dec-2020 11:18:54] NOTICE: ready to handle connections
+[25-Dec-2020 09:28:43] NOTICE: fpm is running, pid 3080
+[25-Dec-2020 09:28:43] NOTICE: ready to handle connections
+[25-Dec-2020 12:45:41] ERROR: Another FPM instance seems to already listen on /home/cedcoss/.config/Local/run/hcLsjC0yD/php/php-fpm.socket
+[25-Dec-2020 12:45:41] ERROR: FPM initialization failed
+[25-Dec-2020 12:45:41] ERROR: Another FPM instance seems to already listen on /home/cedcoss/.config/Local/run/hcLsjC0yD/php/php-fpm.socket
+[25-Dec-2020 12:45:41] ERROR: FPM initialization failed
+[25-Dec-2020 12:45:42] ERROR: Another FPM instance seems to already listen on /home/cedcoss/.config/Local/run/hcLsjC0yD/php/php-fpm.socket
+[25-Dec-2020 12:45:42] ERROR: FPM initialization failed
+[25-Dec-2020 12:45:42] ERROR: Another FPM instance seems to already listen on /home/cedcoss/.config/Local/run/hcLsjC0yD/php/php-fpm.socket
+[25-Dec-2020 12:45:42] ERROR: FPM initialization failed
+[25-Dec-2020 12:47:13] ERROR: Another FPM instance seems to already listen on /home/cedcoss/.config/Local/run/hcLsjC0yD/php/php-fpm.socket
+[25-Dec-2020 12:47:13] ERROR: FPM initialization failed
+[25-Dec-2020 12:47:14] ERROR: Another FPM instance seems to already listen on /home/cedcoss/.config/Local/run/hcLsjC0yD/php/php-fpm.socket
+[25-Dec-2020 12:47:14] ERROR: FPM initialization failed
+[25-Dec-2020 12:47:14] ERROR: Another FPM instance seems to already listen on /home/cedcoss/.config/Local/run/hcLsjC0yD/php/php-fpm.socket
+[25-Dec-2020 12:47:14] ERROR: FPM initialization failed
+[25-Dec-2020 12:47:15] ERROR: Another FPM instance seems to already listen on /home/cedcoss/.config/Local/run/hcLsjC0yD/php/php-fpm.socket
+[25-Dec-2020 12:47:15] ERROR: FPM initialization failed
+[25-Dec-2020 12:51:18] NOTICE: fpm is running, pid 2070
+[25-Dec-2020 12:51:18] NOTICE: ready to handle connections

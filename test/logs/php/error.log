@@ -1,0 +1,18 @@
+[18-Dec-2020 12:15:41 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/cedcoss/Local Sites/test/app/public/wp-admin/includes/plugin-install.php on line 183
+[18-Dec-2020 12:15:41 UTC] PHP Stack trace:
+[18-Dec-2020 12:15:41 UTC] PHP   1. {main}() /home/cedcoss/Local Sites/test/app/public/wp-admin/plugin-install.php:0
+[18-Dec-2020 12:15:41 UTC] PHP   2. do_action() /home/cedcoss/Local Sites/test/app/public/wp-admin/plugin-install.php:173
+[18-Dec-2020 12:15:41 UTC] PHP   3. WP_Hook->do_action() /home/cedcoss/Local Sites/test/app/public/wp-includes/plugin.php:484
+[18-Dec-2020 12:15:41 UTC] PHP   4. WP_Hook->apply_filters() /home/cedcoss/Local Sites/test/app/public/wp-includes/class-wp-hook.php:311
+[18-Dec-2020 12:15:41 UTC] PHP   5. install_dashboard() /home/cedcoss/Local Sites/test/app/public/wp-includes/class-wp-hook.php:287
+[18-Dec-2020 12:15:41 UTC] PHP   6. install_popular_tags() /home/cedcoss/Local Sites/test/app/public/wp-admin/includes/plugin-install.php:285
+[18-Dec-2020 12:15:41 UTC] PHP   7. plugins_api() /home/cedcoss/Local Sites/test/app/public/wp-admin/includes/plugin-install.php:252
+[18-Dec-2020 12:15:41 UTC] PHP   8. trigger_error() /home/cedcoss/Local Sites/test/app/public/wp-admin/includes/plugin-install.php:183
+[24-Dec-2020 05:49:23 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/cedcoss/Local Sites/test/app/public/wp-includes/update.php on line 408
+[24-Dec-2020 05:49:23 UTC] PHP Stack trace:
+[24-Dec-2020 05:49:23 UTC] PHP   1. {main}() /home/cedcoss/Local Sites/test/app/public/wp-cron.php:0
+[24-Dec-2020 05:49:23 UTC] PHP   2. do_action_ref_array() /home/cedcoss/Local Sites/test/app/public/wp-cron.php:138
+[24-Dec-2020 05:49:23 UTC] PHP   3. WP_Hook->do_action() /home/cedcoss/Local Sites/test/app/public/wp-includes/plugin.php:551
+[24-Dec-2020 05:49:23 UTC] PHP   4. WP_Hook->apply_filters() /home/cedcoss/Local Sites/test/app/public/wp-includes/class-wp-hook.php:311
+[24-Dec-2020 05:49:23 UTC] PHP   5. wp_update_plugins() /home/cedcoss/Local Sites/test/app/public/wp-includes/class-wp-hook.php:287
+[24-Dec-2020 05:49:23 UTC] PHP   6. trigger_error() /home/cedcoss/Local Sites/test/app/public/wp-includes/update.php:408

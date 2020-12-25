@@ -148,8 +148,7 @@ function abc_blog_php_scripts() {
 	wp_enqueue_style( 'fontawesome', get_template_directory_uri() . '/css/fontawesome.css',false,'1.1','all');
 	wp_enqueue_style( 'owl', get_template_directory_uri() . '/css/owl.css',false,'1.1','all');
 	wp_enqueue_style( 'templatemo-stand-blog', get_template_directory_uri() . '/css/templatemo-stand-blog.css',false,'1.1','all');
-	// wp_enqueue_style( 'bootstrap.min', get_template_directory_uri() . '/css/bootstrap.min.css',false,'1.1','all');
-
+	wp_enqueue_style( 'bootstrap.min', get_template_directory_uri() . '/css/bootstrap.min.css',false,'1.1','all');
 
 	wp_enqueue_script( 'abc-blog-php-navigation', get_template_directory_uri() . '/js/navigation.js', array(), _S_VERSION, true );
 	wp_enqueue_script( 'abc-blog-php-accordions', get_template_directory_uri() . '/js/accordions.js', array(), _S_VERSION, true );

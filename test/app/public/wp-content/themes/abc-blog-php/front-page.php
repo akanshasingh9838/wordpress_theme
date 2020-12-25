@@ -1,7 +1,13 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
     <head>
-        <?php wp_head(); ?>
+        <?//php wp_head(); ?>
     </head>
 
-<body body_class>
+<body <?//php body_class(); ?>> -->
+
+<?php get_header(); ?>
+
+ytyfhjgfhf
+
+<?php get_footer(); ?>
